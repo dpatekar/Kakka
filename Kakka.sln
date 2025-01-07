@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kakka.Service", "Kakka.Service\Kakka.Service.csproj", "{93EA3DC5-205A-46FD-A529-974060C998E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kakka.Server", "Kakka.Server\Kakka.Server.csproj", "{565B31AE-7CA2-4CBD-B937-F1103EF993B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93EA3DC5-205A-46FD-A529-974060C998E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EA3DC5-205A-46FD-A529-974060C998E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EA3DC5-205A-46FD-A529-974060C998E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EA3DC5-205A-46FD-A529-974060C998E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{565B31AE-7CA2-4CBD-B937-F1103EF993B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565B31AE-7CA2-4CBD-B937-F1103EF993B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565B31AE-7CA2-4CBD-B937-F1103EF993B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565B31AE-7CA2-4CBD-B937-F1103EF993B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
