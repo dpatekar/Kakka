@@ -1,6 +1,9 @@
 using Kakka.Service;
 using Kakka.Service.Actors;
 
+if (!File.Exists("client.properties"))
+    Console.WriteLine("Missing Kafka configuration file \"client.properties\"");
+
 using var cts = new CancellationTokenSource();
 
 Console.CancelKeyPress += (_, eventArgs) =>
